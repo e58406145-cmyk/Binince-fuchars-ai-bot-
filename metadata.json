@@ -1,0 +1,7 @@
+{
+  "name": "CyberPulse Futures",
+  "description": "Mobile-first crypto futures market-analysis radar for Binance and Bitget perpetuals with live multi-timeframe indicator calculations and manual signal generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
